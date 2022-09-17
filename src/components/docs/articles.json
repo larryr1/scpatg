@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Access School Wi-Fi",
+    "subtitle": "Internet",
+    "file": "access_school_wifi"
+  },
+  {
+    "title": "Access Skyward",
+    "subtitle": "Accounts",
+    "file": "access_skyward"
+  },
+  {
+    "title": "Access Colegia",
+    "subtitle": "Accounts",
+    "file": "access_colegia"
+  },
+  {
+    "title": "Access Google Classroom",
+    "subtitle": "Services",
+    "file": "access_google_classroom"
+  }
+]
